@@ -1,2 +1,4 @@
 # meshroom
-Automated Mushroom growing kit
+
+Code for an Automated Mushroom growing kit
+
