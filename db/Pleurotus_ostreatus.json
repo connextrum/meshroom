@@ -1,0 +1,155 @@
+{
+  "CropName": "Pleutorus Osteatus",
+  "CropStage": "Spawn Run",
+  "TemperatureRange": {
+    "Min": 24,
+    "Max": 24,
+    "Units": "Celsius"
+  },
+  "RelativeHumidityRange": {
+    "Min": 85,
+    "Max": 95,
+    "Units": "Percent"
+  },
+  "Duration": {
+    "Min": 12,
+    "Max": 21,
+    "Units": "Days"
+  },
+  "CarbonDioxide": {
+    "Min": 5000,
+    "Max": 20000,
+    "Units": "PPM"
+  },
+  "AirExchageRange": {
+    "Min": 1,
+    "Max": 1,
+    "Units": "Per Hour"
+  },
+  "LightRange": {
+    "Min": 0,
+    "Max": 0,
+    "Units": "n/a"
+  },
+  "CropCycle": {
+    "Times": {
+      "Min": 3,
+      "Max": 4,
+      "Units": "Crops"
+    },
+    "Spacing": {
+      "Min": 7,
+      "Max": 14,
+      "Units": "Days"
+    },
+    "Length": {
+      "Min": 45,
+      "Max": 53,
+      "Units": "Days"
+    }
+  }
+}
+
+{
+  "CropName": "Pleutorus Osteatus",
+  "CropStage": "Primordia Formation",
+  "TemperatureRange": {
+    "Min": 10,
+    "Max": 15.6,
+    "Units": "Celsius"
+  },
+  "RelativeHumidityRange": {
+    "Min": 95,
+    "Max": 100,
+    "Units": "Percent"
+  },
+  "Duration": {
+    "Min": 3,
+    "Max": 5,
+    "Units": "Days"
+  },
+  "CarbonDioxide": {
+    "Min": 0,
+    "Max": 1000,
+    "Units": "PPM"
+  },
+  "AirExchageRange": {
+    "Min": 4,
+    "Max": 8,
+    "Units": "Per Hour"
+  },
+  "LightRange": {
+    "Min": 1000,
+    "Max": 1500,
+    "Units": "lux"
+  },
+  "CropCycle": {
+    "Times": {
+      "Min": 3,
+      "Max": 4,
+      "Units": "Crops"
+    },
+    "Spacing": {
+      "Min": 7,
+      "Max": 14,
+      "Units": "Days"
+    },
+    "Length": {
+      "Min": 45,
+      "Max": 53,
+      "Units": "Days"
+    }
+  }
+}
+
+{
+  "CropName": "Pleutorus Osteatus",
+  "CropStage": "Fruitbody Development",
+  "TemperatureRange": {
+    "Min": 10,
+    "Max": 21,
+    "Units": "Celsius"
+  },
+  "RelativeHumidityRange": {
+    "Min": 85,
+    "Max": 90,
+    "Units": "Percent"
+  },
+  "Duration": {
+    "Min": 4,
+    "Max": 7,
+    "Units": "Days"
+  },
+  "CarbonDioxide": {
+    "Min": 0,
+    "Max": 1000,
+    "Units": "PPM"
+  },
+  "AirExchageRange": {
+    "Min": 4,
+    "Max": 8,
+    "Units": "Per Hour"
+  },
+  "LightRange": {
+    "Min": 1000,
+    "Max": 1500,
+    "Units": "lux"
+  },
+  "CropCycle": {
+    "Times": {
+      "Min": 3,
+      "Max": 4,
+      "Units": "Crops"
+    },
+    "Spacing": {
+      "Min": 7,
+      "Max": 14,
+      "Units": "Days"
+    },
+    "Length": {
+      "Min": 45,
+      "Max": 53,
+      "Units": "Days"
+    }
+  }
+}
